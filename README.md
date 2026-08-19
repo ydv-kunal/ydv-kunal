@@ -163,9 +163,9 @@ Check out the pinned repos and [portfolio](https://kunall-portfolio-dev.vercel.a
 
 <br>
 
-## 📊 GitHub Activity
+<!-- ## 📊 GitHub Activity --
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ydv-kunal&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydv-kunal&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
@@ -176,7 +176,7 @@ Check out the pinned repos and [portfolio](https://kunall-portfolio-dev.vercel.a
 
 </div>
 
-<br>
+<br> -->
 
 ## 🌐 Let's Connect
 
