@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering student at **Delhi Technological University**, focused on backend architecture, distributed systems, and applied AI. I like taking ideas from whiteboard to production — designing the system, writing the code, and shipping something people can actually use.
+I'm a Software Engineer and BTech Software Engineering graduate from Delhi Technological University, focused on backend architecture, distributed systems, and applied AI. I like taking ideas from whiteboard to production — designing the system, writing the code, and shipping something people can actually use.
 
 ```text
 const kunal = {
